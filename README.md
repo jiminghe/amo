@@ -5,7 +5,7 @@
     .
     <a href="https://chengxuxin.github.io/"><strong>Xuxin Cheng*</strong></a>
     ·
-    <a href="https://tiianshu.github.io/"><strong>Tianshu Huang*</strong></a>
+    <a href="https://tian-shu-huang.github.io"><strong>Tianshu Huang*</strong></a>
     <br>
     <a href="https://aaronyang1223.github.io/"><strong>Shiqi Yang</strong></a>
     ·
